@@ -15,21 +15,25 @@ The framework showcases analytical abilities required in **applied economist** a
 ## 📄 Repository Contents  
 
 ### **1. Evaluation Framework (PDF)**  
+📄 [Click to view PDF](https://github.com/Vamakshi6402/Evaluation-Framework-Literacy-Program/blob/main/docs/SunBooks_EvaluationFramework_VamakshiChaturvedi_WLF.pdf)
+
 A concise M&E framework outlining:  
 - **Literacy outcome indicators**  
-- **Teacher engagement** and **digital-readiness metrics**  
+- **Teacher engagement** and digital-readiness metrics  
 - **Classroom utilization KPIs**  
 - **Data-collection methods** and reporting frequency  
 - **Evaluation logic** and expected results  
 
 ### **2. Student Progress Tracker (Excel Template)**  
+📊 [Click to download Excel Template](https://github.com/Vamakshi6402/Evaluation-Framework-Literacy-Program/blob/main/docs/SunBooks_RiversLiteracy_StudentProgressTracker_VamakshiChaturvedi.xlsx)
+
 A structured template for:  
 - **Baseline and follow-up assessments**  
 - Weekly usage logging  
 - **Gender-inclusive participation tracking**  
 - Classroom-level summaries  
 
-This tool demonstrates understanding of **data structuring**, **monitoring workflows**, and field-level constraints in education-sector evaluations.
+This tool demonstrates understanding of data structuring, monitoring workflows, and field-level constraints in education evaluations.
 
 ---
 
