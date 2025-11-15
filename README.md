@@ -47,6 +47,7 @@ These areas reflect core competencies required for an economist's work involving
 
 ## 🌍 Context & Purpose  
 This work was prepared as part of my **applied research portfolio** to deepen expertise in **field-level evaluation** and **impact measurement**.  
+
 It reflects **independent analytical capability** and the ability to **build evaluation tools from scratch**—skills essential for economist roles in policy, development, and technology domains.
 
 ---
